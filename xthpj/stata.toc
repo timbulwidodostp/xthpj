@@ -2,4 +2,4 @@
 1
 2
 3
-p dea Data envelopment analysis
+p xthpj High dimensional half-panel jackknife fixed-effects (HDFE) Regression estimator Use xthpj With STATA 19
