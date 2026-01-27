@@ -1,6 +1,8 @@
 # xthpj
 High dimensional half-panel jackknife fixed-effects (HDFE) Regression estimator Use xthpj With STATA 19
 
+https://www.youtube.com/watch?v=ViuK0cCN5aU
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
